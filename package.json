@@ -1,0 +1,26 @@
+{
+  "name": "jquery-rhythmplease",
+  "version": "1.0.1",
+  "description": "A jQuery library for maintaining a vertical rhythm with responsive blocks and images.",
+  "main": "src/jquery.rhythmPlease.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halfzebra/jquery-rhythmplease"
+  },
+  "keywords": [
+    "jquery",
+    "jquery-plugin",
+    "rhythm",
+    "vertical-rhythm",
+    "typography"
+  ],
+  "author": "halfzebra <duardeco@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/halfzebra/jquery.rhythm-please/issues"
+  },
+  "homepage": "https://github.com/halfzebra/jquery.rhythm-please/issues#readme",
+  "dependencies": {
+    "jquery": ">=1.7"
+  }
+}
